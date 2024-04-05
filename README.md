@@ -77,7 +77,9 @@ Goal: How many days of year in each temperature range
             - [Medium Articles on zip code plots](https://medium.com/@mm.fuenteslopez/using-plotly-express-to-make-zip-code-level-choropleth-maps-a8ac8212b7ed)
             - [Zip Code Geojson files](https://github.com/OpenDataDE/State-zip-code-GeoJSON)
                 - will need to determine how to provide value for each zipcode.
-
+- median Home prices:
+    - [US Census data](https://data.census.gov/table/ACSDT5Y2022.B25077?t=Financial%20Characteristics:Housing%20Value%20and%20Purchase%20Price&g=010XX00US$8600000&y=2022) - datasets: B2503, B2506, B2507 & DP04
+    - [nar.realtor pdf report](https://www.nar.realtor/research-and-statistics/housing-statistics/county-median-home-prices-and-monthly-mortgage-payment)
 #### Example map in plotly:
 
 ![population density](imgs/US-counties-plotly-example.png)
