@@ -44,9 +44,15 @@ Goal: How many days of year in each temperature range
         2. [plotly maps](https://plotly.com/python/county-choropleth/#the-entire-usa)
 - Create map for each temperature range 
 
-#### Step 5: Consider creating a movie showing the progression of temps across maps
+#### Step 5: (Optional) Consider creating a movie showing the progression of temps across maps
 
 - Create movie or possibly a presentation with each map slide transitioning to the next every few seconds.
+
+#### Step 6: (Optional) Add in housing characteristics per zip code
+
+- [Housing Characteristics at Proximity one](https://proximityone.com/zip18dp4.htm)
+- [Housing data - US Census](https://www.census.gov/library/video/2023/adrm/downloading-exporting-and-sharing-2020-census-demographic-and-housing-characteristics-data.html)
+- Need to check license.
 
 #### Resources:
 
@@ -64,8 +70,13 @@ Goal: How many days of year in each temperature range
         - [How To Import Shapefile Into Google Maps || Embed Google Maps In Your Website || The GIS Hub](https://www.youtube.com/watch?v=tfmVe2bY724)
         - [Add a KML files to google maps](https://support.google.com/maps/thread/237045555/how-to-add-a-polygon-shapefile?hl=en)
     - Plotly: Looks pretty simple
-        - [Example](https://plotly.com/python/county-choropleth/#simple-example)
-        - May need to determine plotly code for each county and merge into dataframes in Step 2 above
+        - [plotly choropleth map](https://plotly.com/python/choropleth-maps/)
+        - [County Example](https://plotly.com/python/county-choropleth/#simple-example)
+        -   May need to determine plotly code for each county and merge into dataframes in Step 2 above
+        - Zip Codes
+            - [Medium Articles on zip code plots](https://medium.com/@mm.fuenteslopez/using-plotly-express-to-make-zip-code-level-choropleth-maps-a8ac8212b7ed)
+            - [Zip Code Geojson files](https://github.com/OpenDataDE/State-zip-code-GeoJSON)
+                - will need to determine how to provide value for each zipcode.
 
 #### Example map in plotly:
 
