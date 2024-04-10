@@ -4,9 +4,18 @@
 
 - Instructions for [project 1](Project_1_Overview_DU_Bootcamp.md)
 
-## Project Ideation:
+## Project Ideation: US Weather Analysis
 
-### Idea 1:  US Weather Analysis
+### Questions to be answered
+
+1. What areas of the country have ideal temperature for a particular individual?
+    1. Some individuals like hot, others like cool, etc.
+2. For people who like it hot, what are the ideal areas
+3. For people who like cold winters, what are the ideal areas
+4. For people who like very temperate weather, what are the ideal areas
+5. What areas of the country have less 
+
+### Analysis
 
 **Analysis results:**  What is the typical weather and weather extremes across the U.S.  
 
