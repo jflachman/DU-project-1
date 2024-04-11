@@ -36,43 +36,43 @@ After analyzing data sources it is difficult to find a publicly available source
 - Fix all NaN values in TMAX, TMIN, TAVG and PRCP columns
 - Save results (all stations for each day of the year) in parquet zipped file
 
-## Additions to Step 1 4/11/2024 Thomas
+### Additions to Step 1 4/11/2024 Thomas
 
- # Thomas - Weather Data contains both Lattitude and Longitude as well as state and zip code of the Weather Station.
+### Thomas - Weather Data contains both Lattitude and Longitude as well as state and zip code of the Weather Station.
  
- # FORMAT OF "ghcnd-stations.txt"  
+### FORMAT OF "ghcnd-stations.txt"  
 
-# ------------------------------
-# Variable   Columns   Type
-# ------------------------------
-# ID            1-11   Character
-# LATITUDE     13-20   Real
-# LONGITUDE    22-30   Real
-# ELEVATION    32-37   Real
-# STATE        39-40   Character     STATE is the U.S. postal code for the state (for U.S. stations only).
-# NAME         42-71   Character
-# GSN FLAG     73-75   Character
-# HCN/CRN FLAG 77-79   Character
-# WMO ID       81-85   Character
-# ------------------------------
+### ------------------------------
+###  Variable   Columns   Type
+### ------------------------------
+### ID            1-11   Character
+### LATITUDE     13-20   Real
+### LONGITUDE    22-30   Real
+### ELEVATION    32-37   Real
+### STATE        39-40   Character     STATE is the U.S. postal code for the state (for U.S. stations only).
+### NAME         42-71   Character
+### GSN FLAG     73-75   Character
+### HCN/CRN FLAG 77-79   Character
+### WMO ID       81-85   Character
+### ------------------------------
 
-# FORMAT OF "ghcnd-states.txt"
+### FORMAT OF "ghcnd-states.txt"
 
-# ------------------------------
-# Variable   Columns   Type
-# ------------------------------
-# CODE          1-2    Character
-# NAME         4-50    Character
-# ------------------------------
+### ------------------------------
+### Variable   Columns   Type
+### ------------------------------
+### CODE          1-2    Character
+### NAME         4-50    Character
+### ------------------------------
 
-# These variables have the following definitions:
+### These variables have the following definitions:
 
-# CODE       is the POSTAL code of the U.S. state/territory or Canadian 
-# province where the station is located 
+### CODE       is the POSTAL code of the U.S. state/territory or Canadian 
+### province where the station is located 
 
-# NAME       is the name of the state, territory or province.
+### NAME       is the name of the state, territory or province.
 
- # the above can be found at https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt
+ ### the above can be found at https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt
 
 
  #### Step 2: Create station summary information
