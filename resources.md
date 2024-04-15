@@ -24,6 +24,8 @@
     - [US Census data](https://data.census.gov/table/ACSDT5Y2022.B25077?t=Financial%20Characteristics:Housing%20Value%20and%20Purchase%20Price&g=010XX00US$8600000&y=2022) 
         - datasets: B2503, B2506, B2507 & DP04 can provide the needed data.  We will not need all these sources.
     - [nar.realtor pdf report](https://www.nar.realtor/research-and-statistics/housing-statistics/county-median-home-prices-and-monthly-mortgage-payment)
+    - [Federal Housing Finance Agency](https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx#qat)
+    - [additonal fhfa files](https://www.fhfa.gov/DataTools/Downloads/Pages/UAD-Appraisal-Level-Public-Use-File.aspx)
 
 ## County and Zip Code info
 
@@ -31,6 +33,9 @@
 
 Breakdown of 2 to 15 digit FIPS codes.
 - [FIPS GEOID Codes](https://www.geocod.io/guides/census/)
+
+OpenData Delaware has zipcode/county geojsons defined.
+- [State-zip-code-GeoJSON](https://github.com/OpenDataDE/State-zip-code-GeoJSON)
 
 
 ### Counties
