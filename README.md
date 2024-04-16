@@ -7,7 +7,7 @@
 
 ## Project 1 Directions
 
-- Instructions for [project 1](Project_1_Overview_DU_Bootcamp.md)
+- Instructions for [project 1](Project_1_Overview_DU_Bootcamp.md)  
 
 ## Project Ideation: US Weather Analysis
 
@@ -19,10 +19,25 @@
 
 1. What areas of the country have ideal temperature for a particular individual?
     1. Some individuals like hot, others like cool, etc.
+        - does not mind hot weather
+        - 
 2. For people who like it hot, what are the ideal areas
 3. For people who like cold winters, what are the ideal areas
+    - fewer than 10 days > 80
+    - at least than 10 below 32
 4. For people who like very temperate weather, what are the ideal areas
+    - fewer than 20 days with a high below 60
+    - fewer than 10 days with a high above 90
 5. What areas of the country have less 
+
+- map with count > 90 as then add all the bins to the hover
+- map with count > 80
+>70
+>60
+<60
+<50
+<40
+
 
 ### Analysis
 
