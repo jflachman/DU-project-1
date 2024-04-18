@@ -40,6 +40,8 @@ for people who like hot weather, what is the ideal temperature
 
 ChatGPT
 
+Hot - 75-95
+
 The ideal temperature for people who enjoy hot weather can vary based on personal preference, but generally, it ranges between 25 to 35 degrees Celsius (77 to 95 degrees Fahrenheit). Some might even prefer temperatures higher than that, especially if they live in regions with consistently warm climates. However, it's essential to note that humidity levels also play a significant role in how comfortable or enjoyable hot weather feels to individuals.
 
 You
@@ -48,6 +50,8 @@ For people who like cold weather what is the ideal temperature
 
 ChatGPT
 
+Cold 25-50
+
 For those who enjoy cold weather, the ideal temperature typically ranges between -5 to 10 degrees Celsius (23 to 50 degrees Fahrenheit). However, preferences can vary widely among individuals, with some preferring even colder temperatures, especially if they enjoy winter sports like skiing or snowboarding. Additionally, factors such as humidity, wind chill, and personal tolerance to cold also influence what someone considers their ideal cold weather temperature.
 
 You
@@ -55,6 +59,8 @@ You
 For people who like moderate temperatures, what is the ideal temperature
 
 ChatGPT
+
+60-80
 
 People who prefer moderate temperatures typically find comfort in a range of 18 to 24 degrees Celsius (64 to 75 degrees Fahrenheit). This range provides a pleasant balance between warmth and coolness, allowing for comfortable indoor and outdoor activities without feeling too hot or too cold. Moderate temperatures like these are often considered ideal for various daily activities, such as outdoor exercise, leisurely walks, or simply enjoying time outdoors without discomfort.
 
