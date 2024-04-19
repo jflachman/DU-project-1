@@ -1,15 +1,21 @@
-## Executive Summary (1 min)
-
+## Executive Summary (1 min - 5 points)
+- Project Purpose / Description
+- overview of the project and project goals
 - Define weather types (chatgbt)
-- 
 
-## Data Collection, Cleanup and exploration (<1 min)
 
-- Housing data
+## Goals/Questions to be addressed
 
-## Approach taken to achieve the project goals (<1 min)
+## Overview of data collection, cleanup and exploration process
 
- - 
+- Sources Used
+- Sources wanted but difficult to obtain
+    - recourses page
+
+
+## Approach taken to achieve the project goals (<1 min - 5 min)
+
+ -   The approach that your group took in achieving the project goals
 
 ## Analysis (1 min)
 
@@ -18,20 +24,34 @@ How we broke down the problem and chose to present
 
 ## visualizations (3-4)
 
- ![sample](imgs/DataFrame-save-size.png) [Plotly with number of days > 90 deg ](html/days-greater-than-90.html)
+- Data and discovery (i.e. flagstaff)
+- Extremes
+    - Days > 90
+    - Days <20
+- Comfort Zones
+    - Cold Days
+    - Hot Days
+    - Comfort Zone
+
+## Results & Conclusions
+- The results and conclusions of the application or analysis (5 points).
 
 ## Possible future work (< 30 sec)
 
+-   Any additional questions that surfaced, what your group might research next if more time was available, or share a plan for future development (5 points).
+
 - Could easily create an interactive tool
-- Can add housing median price by zip cod3
+- Can add housing median price by zip code (Chloropleth)
 - can add a precipitation overlay (correlation to cloudy)
 - Show additional visualizations for min or average temperature
 
 
-## Questions (3 min)
+## Questions & Answers (3 min)
 
 
-
+## Notes:
+-   Slides effectively demonstrate the project (3 points).
+-   Slides are visually clean and professional (2 points).
 
 
 You
