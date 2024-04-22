@@ -22,6 +22,17 @@
         - [DU Project 1](resources.md) potential data sources
 - Preliminary [optional median home value](optional_get_median_home_values.ipynb)
 
+### Important information about the DU-Project-1 Repository
+
+Issues with maxing out the LFS quota on github prevented storing the source_files, result_files and plotly html files on github.  In order to see these files, run the jupyter files steps 1 to 5 in order.  The jupyter files will automatically create a result_files and plotly files directory in the cloned local repo to save the files.
+ - step1 now checks for the existence of result_files directory and creates it if it does not exist.  
+    - All step 1-4 results will be saved in this directory as compressed parquet files.  
+    - The compressed parquet format was determined to be the most efficient format to save the intermediate and final results.  See the bottom of the [resources](resources.md) file for this analysis from an article in Toward Data Science.
+ - step5 now checks for teh existence of the plotly subdirectory and create if it does not exist.
+    - All plotly html files (dynamic plotly maps) will be saved in the plotly subdirectory
+
+
+
 ## Project Summary
 
 Our team is: Jeff Flachman, Pedro Zurita, Thomas Brown
